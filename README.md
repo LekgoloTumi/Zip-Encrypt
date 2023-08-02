@@ -1,4 +1,4 @@
-# Zip-Encrypt
+# Development
 This code essentially solves a problem I encountered when trying to encrypt a Zip file in C#
 
 Problem Solving Approach:
